@@ -1,6 +1,6 @@
 # SIDLE: Caracterización de la microbiota en muestras de tejido parafinado (FFPE)
 
-Este repositorio contiene el código y los recursos utilizados para el análisis bioinformático de muestras de tejido tumoral de cáncer de mama conservadas mediante fijación en formalina e inclusión en parafina (FFPE).
+Este repositorio contiene el código para el análisis bioinformático de muestras de tejido tumoral de cáncer de mama conservadas mediante fijación en formalina e inclusión en parafina (FFPE) obtenidas en el instituto de genética médica y molecular (INGEMM) en el Hospital de la Paz, Madrid, España.
 
 Las muestras FFPE presentan un ADN altamente fragmentado, generalmente con longitudes de entre 100 y 300 pb. Esta característica dificulta el empleo de métodos convencionales de secuenciación basados en regiones largas (*single long-region framework*).
 
